@@ -1,4 +1,4 @@
-![Image alt](https://github.com/{Tixon-noxit}/{LockerBox}/images/{main}/{path}/boxing.ico)
+![Image alt](https://github.com/{Tixon-noxit}/{LockerBox}/images/{main}/boxing.ico)
 # LockerBox # 
 Program for monitoring payments for cells leased
 The program maintains its database and counts the number of remaining days of paid rent. 
