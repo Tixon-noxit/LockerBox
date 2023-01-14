@@ -1,4 +1,7 @@
-# LockerBox #
+<p align="center">
+      <img src="https://drive.google.com/file/d/1FmRE5G9OyokyAgmbtchJLUO_ZTgaTS05/view?usp=share_link" width="726">
+</p>
+# LockerBox # 
 Program for monitoring payments for cells leased
 The program maintains its database and counts the number of remaining days of paid rent. 
 After the lease expires, it changes the status of the cell on its own, informing the user about it.
