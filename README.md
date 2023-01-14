@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://drive.google.com/file/d/1FmRE5G9OyokyAgmbtchJLUO_ZTgaTS05/view?usp=share_link" width="726">
+      <img src="https://ibb.co/GR0Cxz3" width="726">
 </p>
 # LockerBox # 
 Program for monitoring payments for cells leased
