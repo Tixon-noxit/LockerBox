@@ -36,6 +36,6 @@ The table displays general data on frames:
 Launch can only be done when using python 3.x
 
 To start you need: 
-  -Run command `pip3 install -r requirements.txt` 
-  -Run file LockerBox.py
+    - Run command 'pip3 install -r requirements.txt' 
+    - Run file 'LockerBox.py'
   
