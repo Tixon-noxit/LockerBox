@@ -29,3 +29,13 @@ The table displays general data on frames:
   -Tenants 
   -Cells with overdue payments 
   -Cells with missing spare keys
+
+
+
+## Installation and launch ## 
+Launch can only be done when using python 3.x
+
+To start you need: 
+  -Run command `pip3 install -r requirements.txt` 
+  -Run file LockerBox.py
+  
