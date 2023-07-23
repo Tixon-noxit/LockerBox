@@ -1,4 +1,7 @@
 # LockerBox # 
+
+![LockerBox](https://www.example.com/image.jpg)
+
 Program for monitoring payments for cells leased
 The program maintains its database and counts the number of remaining days of paid rent. 
 After the lease expires, it changes the status of the cell on its own, informing the user about it.
