@@ -2,6 +2,8 @@
 
 ![LockerBox](https://img2.freepng.ru/20180704/jyt/kisspng-locker-clip-art-school-locker-5b3c87bca6f4b0.2667192015306935646839.jpg)
 
+<img src="https://img2.freepng.ru/20180704/jyt/kisspng-locker-clip-art-school-locker-5b3c87bca6f4b0.2667192015306935646839.jpg" width="500">
+
 Program for monitoring payments for cells leased
 The program maintains its database and counts the number of remaining days of paid rent. 
 After the lease expires, it changes the status of the cell on its own, informing the user about it.
