@@ -42,3 +42,16 @@ To start you need:
   - Run command `pip3 install -r requirements.txt`
   - Run file `LockerBox.py`
   
+
+## Assembly to .exe ##
+  - Open windows command line
+  - Install pyinstaller
+
+  `pip install pyinstaller`
+
+  - Next, change to the folder containing the .py file on the command line (using the cd command)
+  - Run the pyinstaller command without specifying the name of your script
+
+  `pyinstaller --onefile --onefile --icon=./imahes/boxing.ico LockerBox.py`
+
+  - That's it - you will have a src folder in your folder and there will be an .exe file.
