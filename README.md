@@ -3,7 +3,7 @@
 <img src="https://sun9-64.userapi.com/impg/OfjJCupL46kHlGYPJymjB4d9S6MOlGKWgfzJpA/JDxJDN0Bjrk.jpg?size=1280x722&quality=95&sign=ddda67f24c795fdf3b83813c1fbc4d43&type=album" width="500">
 <img src="https://sun9-45.userapi.com/impg/uUnLKLbp5Fkegxwm_loWa439iQF3HTBfE6yEMA/U7W0nNDYoEQ.jpg?size=1280x722&quality=95&sign=6877afbd280354564ba976b705e40808&type=album" width="500">
 <img src="https://sun9-27.userapi.com/impg/buh_GEI6Thwe-hfPDA-2cgH2txjKDSPwDdBSgQ/coNxisvQMJ0.jpg?size=1280x722&quality=95&sign=c16bcdf41c64ed07f5a3b43e0c313c70&type=album" width="500">
-<img src="https://sun9-5.userapi.com/impg/ZXh1JtJhNZDgbJIQNz4xZnmvzK2SzE-nYMrP7g/HLb5pFTrvZo.jpg?size=1280x722&quality=95&sign=bcfc36796e56d0b1d8736113ec341d84&type=album" width="500">
+<img src="https://disk.yandex.ru/i/5-awnX_DMstkqw" width="500">
 
 Program for monitoring payments for cells leased
 The program maintains its database and counts the number of remaining days of paid rent. 
