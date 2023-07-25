@@ -1,6 +1,6 @@
 # LockerBox # 
 
-<img src="https://img2.freepng.ru/20180704/jyt/kisspng-locker-clip-art-school-locker-5b3c87bca6f4b0.2667192015306935646839.jpg" width="300">
+<img src="https://drive.google.com/file/d/16880hWJFJtECP0MMX0eCZ5sgF3rKKpZI/view?usp=sharing" width="300">
 
 Program for monitoring payments for cells leased
 The program maintains its database and counts the number of remaining days of paid rent. 
