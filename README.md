@@ -45,6 +45,14 @@ To start you need:
   - Run command `pip3 install -r requirements.txt`
   - Run file `LockerBox.py`
   
+## To run in the python3 interpreter environment, you must run the commands ##
+- `make`
+- `source env/bin/activate`
+- `python3 -m pip install -r requirements.txt`
+- `python LockerBox.py`
+- after the end of the program, you must deactivate env with the command: `deactivate`
+
+
 
 ## Assembly to .exe ##
   - Open windows command line
