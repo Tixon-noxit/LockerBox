@@ -1,30 +1,18 @@
 # Makefile
 
-# Set the name of the virtual environment
-VENV_NAME := env
+VENV_NAME = env
+PYTHON = python3
+PIP = $(VENV_NAME)/bin/pip
 
-# Python command
-PYTHON := python3
+.PHONY: install clean
 
-# Targets
+install: $(VENV_NAME)
 
-# Create a virtual environment
-venv:
-	$(PYTHON) -m venv $(VENV_NAME)
-
-# Activate the virtual environment (Unix/Linux/Mac)
-activate:
-	source $(VENV_NAME)/bin/activate
-
-# Activate the virtual environment (Windows)
-activate_win:
-	$(VENV_NAME)\Scripts\activate
-
-# Install dependencies from requirements.txt
-install:
-	$(PYTHON) -m pip install -r requirements.txt
-
-# Clean up the virtual environment directory
 clean:
+	@echo "Cleaning up..."
 	rm -rf $(VENV_NAME)
 
+$(VENV_NAME):
+	@echo "Creating virtual environment..."
+	$(PYTHON) -m venv $(VENV_NAME)
+	$(PIP) install --upgrade pip
